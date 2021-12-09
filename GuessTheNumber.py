@@ -12,7 +12,7 @@ while True:
     if choice == "s":
         print("Enter any number from 0 to 10, if you guess the number you win, if not the game would tell you if the number must be smaller or bigger.")
         from random import randrange
-        n = randrange(10)
+        n = randrange(100)
         while True:
             v = int(input())
             if n == v:
