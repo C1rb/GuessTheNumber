@@ -1,6 +1,6 @@
 #GuessTheNumber
 
-print("GuessTheNumber Version 1.1")
+print("GuessTheNumber Version 1.0")
 
 #Main Code(Main loop, Main Game)
 list1 = []
