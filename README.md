@@ -13,6 +13,11 @@ Version 1.1
 - Added scoring system
 - Improved text interface
 
+Version 1.2
+- Added the about section
+- Added the quiting interface
+- Optimized code
+
 MECHANICS:
 The player must guess the number to win the game.
 
