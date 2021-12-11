@@ -20,7 +20,7 @@ SCORING SYSTEM:
 The higher your score the lower your points while the lower your score the higher your points. 
 
 
-Feel free to use my code and improve my code.
+Feel free to use and improve my code.
 
 Cheers,
 
