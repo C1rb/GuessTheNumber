@@ -9,7 +9,7 @@ Version 1.0
 
 Version 1.1
 - Added scoring system
-- 
+- Improved text interface
 
 MECHANICS:
 The player must guess the number to win the game.
