@@ -34,7 +34,7 @@ while True:
         choice = input(" Are you sure to quit, enter any key if yes or 'a' for about : ")
         if choice == "a":
             print("------------------------------------------------------------------------------")
-            print("ABOUT: GuessTheNUmber is a simple game made in python, it has simple mechanics that would make the game a little bit more fun than usual.")
+            print("ABOUT: GuessTheNumber is a simple game made in python, it has simple mechanics that would make the game a little bit more fun than usual.")
             print("Created by C1rb as an open source python game, Feel free to use the code and improve my code, Cheers-C1rb")
             print("------------------------------------------------------------------------------")
 
