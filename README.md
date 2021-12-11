@@ -22,4 +22,5 @@ The higher your score the lower your points while the lower your score the highe
 Feel free to use my code and improve my code.
 
 Cheers,
+
 C1rb
