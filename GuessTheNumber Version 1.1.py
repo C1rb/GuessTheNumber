@@ -10,6 +10,7 @@ while True:
     list1.append(element)
     choice = input(" Enter s to start the game and q to quit GuessTheNumber :")
     if choice == "s":
+        print("------------------------------------------------------------------------------")
         print("Enter any number from 0 to 100, if you guess the number you win, if not the game would tell you if the number must be smaller or bigger.")
         print("SCORING SYSTEM: If your score is higher the lower your points are while if the score is lower the higher score you have.")
         print("------------------------------------------------------------------------------")
