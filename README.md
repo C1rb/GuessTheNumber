@@ -13,6 +13,7 @@ Version 1.1
 
 MECHANICS:
 The player must guess the number to win the game.
+
 SCORING SYSTEM:
 The higher your score the lower your points while the lower your score the higher your points. 
 
