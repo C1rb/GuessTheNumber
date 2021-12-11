@@ -3,6 +3,8 @@
 GuessTheNumber is a simple game I made using Python. 
 The main mechanic of the game is to guess the number that randomly generated from the program. 
 
+VERSIONS: 
+
 Version 1.0
 - Basic Game
 - Basic text interface
