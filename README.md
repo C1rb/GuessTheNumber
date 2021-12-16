@@ -15,7 +15,7 @@ Version 1.0
 - Basic text interface
 
 Version 1.1
-- Added scoring system
+- Added the scoring system
 - Improved text interface
 
 Version 1.2
